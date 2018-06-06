@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17" started-at="2017-09-06T11:05:32Z" finished-at="2017-09-06T11:05:32Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="17" started-at="2017-09-06T11:05:32Z" finished-at="2017-09-06T11:05:32Z">
+      <class name="com.alien.testng.demoTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.alien.testng.demoTest@66d33a]" name="beforeClass" is-config="true" duration-ms="6" started-at="2017-09-06T19:05:32Z" finished-at="2017-09-06T19:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TestNgLearn()[pri:0, instance:com.alien.testng.demoTest@66d33a]" name="TestNgLearn" duration-ms="1" started-at="2017-09-06T19:05:32Z" finished-at="2017-09-06T19:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.alien.testng.demoTest@66d33a]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-09-06T19:05:32Z" finished-at="2017-09-06T19:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.alien.testng.demoTest -->
+    </test> <!-- test -->
+  </suite> <!-- Suite -->
+</testng-results>
